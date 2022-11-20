@@ -1,2 +1,4 @@
+/env3.11
 /_build
 /.ipynb_checkpoints
+*.swp
